@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.eagleget.com	TRUE	/	FALSE	1999999999	__cfduid	d004c9316377cfeb7e89090712a58a5561591316941
+www.eagleget.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

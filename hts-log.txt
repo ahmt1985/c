@@ -1,0 +1,180 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Jun 2020 01:29:03 at http://www.eagleget.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://www.eagleget.com/* +*http://www.eagleget.com/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.eagleget.com/ -O1 "C:\Users\KSC\Desktop\0\xxf" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://www.eagleget.com/* +*http://www.eagleget.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:29:32	Warning: 	Moved Permanently for www.eagleget.com/feed/
+01:29:32	Warning: 	File has moved from www.eagleget.com/feed/ to http://blog.eagleget.com/feeds/posts/default
+01:31:44	Warning: 	Moved Permanently for www.eagleget.com/?p=74
+01:31:44	Warning: 	File has moved from www.eagleget.com/?p=74 to http://www.eagleget.com/download/
+01:31:44	Error: 	"Not Found" (404) at link www.eagleget.com/download/ads-sync.js (from www.eagleget.com/download/)
+01:31:48	Warning: 	Moved Permanently for www.eagleget.com/?p=2613
+01:31:48	Warning: 	File has moved from www.eagleget.com/?p=2613 to http://www.eagleget.com/download-eagleget-portable/
+01:31:48	Error: 	"Not Found" (404) at link www.eagleget.com/download-eagleget-portable/ads-sync.js (from www.eagleget.com/download-eagleget-portable/)
+01:32:00	Warning: 	Link www.eagleget.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+01:32:00	Warning: 	Moved Permanently for www.eagleget.com/?p=1418
+01:32:00	Warning: 	File has moved from www.eagleget.com/?p=1418 to http://www.eagleget.com/manually-add-eagleget-to-chrome-firefox/
+01:32:00	Error: 	"Not Found" (404) at link www.eagleget.com/manually-add-eagleget-to-chrome-firefox/ads-sync.js (from www.eagleget.com/manually-add-eagleget-to-chrome-firefox/)
+01:32:00	Warning: 	Moved Permanently for www.eagleget.com/?p=3641
+01:32:00	Warning: 	File has moved from www.eagleget.com/?p=3641 to http://www.eagleget.com/features-in-v2/
+01:32:00	Error: 	"Not Found" (404) at link www.eagleget.com/features-in-v2/ads-sync.js (from www.eagleget.com/features-in-v2/)
+01:32:00	Warning: 	Moved Permanently for www.eagleget.com/?p=78
+01:32:00	Warning: 	File has moved from www.eagleget.com/?p=78 to http://www.eagleget.com/help/
+01:32:00	Error: 	"Not Found" (404) at link www.eagleget.com/help/ads-sync.js (from www.eagleget.com/help/)
+01:33:10	Warning: 	Moved Permanently for www.eagleget.com/?p=1336
+01:33:10	Warning: 	File has moved from www.eagleget.com/?p=1336 to http://www.eagleget.com/worldwide/
+01:33:10	Error: 	"Not Found" (404) at link www.eagleget.com/worldwide/ads-sync.js (from www.eagleget.com/worldwide/)
+01:33:45	Warning: 	Moved Permanently for www.eagleget.com/?p=3821
+01:33:45	Warning: 	File has moved from www.eagleget.com/?p=3821 to http://www.eagleget.com/ar/
+01:33:45	Warning: 	Moved Permanently for www.eagleget.com/?p=1978
+01:33:45	Warning: 	File has moved from www.eagleget.com/?p=1978 to http://www.eagleget.com/fr/
+01:33:57	Warning: 	Moved Permanently for www.eagleget.com/?p=2596
+01:33:57	Warning: 	File has moved from www.eagleget.com/?p=2596 to http://www.eagleget.com/jp/
+01:33:57	Warning: 	Moved Permanently for www.eagleget.com/?p=3808
+01:33:57	Warning: 	File has moved from www.eagleget.com/?p=3808 to http://www.eagleget.com/tr/
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=2666
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=2666 to http://www.eagleget.com/es/
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=2407
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=2407 to http://www.eagleget.com/cn/
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=2428
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=2428 to http://www.eagleget.com/tw/
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=1670
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=1670 to http://www.eagleget.com/vn/
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=1199
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=1199 to http://www.eagleget.com/testimonials/
+01:34:00	Error: 	"Not Found" (404) at link www.eagleget.com/testimonials/ads-sync.js (from www.eagleget.com/testimonials/)
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=192
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=192 to http://www.eagleget.com/contact-us/
+01:34:00	Error: 	"Not Found" (404) at link www.eagleget.com/contact-us/ads-sync.js (from www.eagleget.com/contact-us/)
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=3803
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=3803 to http://www.eagleget.com/eagleget-user-terms/
+01:34:00	Error: 	"Not Found" (404) at link www.eagleget.com/eagleget-user-terms/ads-sync.js (from www.eagleget.com/eagleget-user-terms/)
+01:34:00	Warning: 	Moved Permanently for www.eagleget.com/?p=3830
+01:34:00	Warning: 	File has moved from www.eagleget.com/?p=3830 to http://www.eagleget.com/privacy-policy/
+01:34:00	Error: 	"Not Found" (404) at link www.eagleget.com/privacy-policy/ads-sync.js (from www.eagleget.com/privacy-policy/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=3838
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=3838 to http://www.eagleget.com/uninstall-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/uninstall-eagleget/ads-sync.js (from www.eagleget.com/uninstall-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=980
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=980 to http://www.eagleget.com/translate-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/translate-eagleget/ads-sync.js (from www.eagleget.com/translate-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/help/contact-us/
+01:34:03	Warning: 	File has moved from www.eagleget.com/help/contact-us/ to /contact-us/
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=3554
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=3554 to http://www.eagleget.com/enable-eagleget-plug-in-and-extension-for-google-chrome/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/enable-eagleget-plug-in-and-extension-for-google-chrome/ads-sync.js (from www.eagleget.com/enable-eagleget-plug-in-and-extension-for-google-chrome/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=3556
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=3556 to http://www.eagleget.com/enable-eagleget-plug-in-and-extension-for-firefox/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/enable-eagleget-plug-in-and-extension-for-firefox/ads-sync.js (from www.eagleget.com/enable-eagleget-plug-in-and-extension-for-firefox/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2047
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2047 to http://www.eagleget.com/help/auto-categorize-downloads-with-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/auto-categorize-downloads-with-eagleget/ads-sync.js (from www.eagleget.com/help/auto-categorize-downloads-with-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1459
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1459 to http://www.eagleget.com/help/prevent-automatic-downloads-from-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/prevent-automatic-downloads-from-eagleget/ads-sync.js (from www.eagleget.com/help/prevent-automatic-downloads-from-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2519
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2519 to http://www.eagleget.com/eagleget-prompts-error-message-while-resuming-a-download/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/eagleget-prompts-error-message-while-resuming-a-download/ads-sync.js (from www.eagleget.com/eagleget-prompts-error-message-while-resuming-a-download/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2056
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2056 to http://www.eagleget.com/help/what-is-eagleget-silent-mode/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/what-is-eagleget-silent-mode/ads-sync.js (from www.eagleget.com/help/what-is-eagleget-silent-mode/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1218
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1218 to http://www.eagleget.com/help/how-to-make-eagleget-cooperate-with-proxy-server/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-to-make-eagleget-cooperate-with-proxy-server/ads-sync.js (from www.eagleget.com/help/how-to-make-eagleget-cooperate-with-proxy-server/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1894
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1894 to http://www.eagleget.com/help/how-to-download-files-from-password-protected-servers/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-to-download-files-from-password-protected-servers/ads-sync.js (from www.eagleget.com/help/how-to-download-files-from-password-protected-servers/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2064
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2064 to http://www.eagleget.com/help/how-to-schedule-downloads-in-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-to-schedule-downloads-in-eagleget/ads-sync.js (from www.eagleget.com/help/how-to-schedule-downloads-in-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1902
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1902 to http://www.eagleget.com/help/how-to-verify-integrity-of-downloaded-files/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-to-verify-integrity-of-downloaded-files/ads-sync.js (from www.eagleget.com/help/how-to-verify-integrity-of-downloaded-files/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1849
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1849 to http://www.eagleget.com/help/scan-files-for-viruses-after-download-is-complete/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/scan-files-for-viruses-after-download-is-complete/ads-sync.js (from www.eagleget.com/help/scan-files-for-viruses-after-download-is-complete/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1898
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1898 to http://www.eagleget.com/help/how-to-disable-eagleget-clipboard-monitoring/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-to-disable-eagleget-clipboard-monitoring/ads-sync.js (from www.eagleget.com/help/how-to-disable-eagleget-clipboard-monitoring/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2780
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2780 to http://www.eagleget.com/how-to-export-and-import-download-tasks/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/how-to-export-and-import-download-tasks/ads-sync.js (from www.eagleget.com/how-to-export-and-import-download-tasks/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=299
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=299 to http://www.eagleget.com/help/how-do-i-uninstall-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-do-i-uninstall-eagleget/ads-sync.js (from www.eagleget.com/help/how-do-i-uninstall-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2528
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2528 to http://www.eagleget.com/what-is-universal-capture-mode/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/what-is-universal-capture-mode/ads-sync.js (from www.eagleget.com/what-is-universal-capture-mode/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=2589
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=2589 to http://www.eagleget.com/integrate-eagleget-into-opera-maxthon-and-more-browsers/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/integrate-eagleget-into-opera-maxthon-and-more-browsers/ads-sync.js (from www.eagleget.com/integrate-eagleget-into-opera-maxthon-and-more-browsers/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1206
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1206 to http://www.eagleget.com/help/how-can-i-add-eagleget-to-browsers-based-on-chrome-or-firefox/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/how-can-i-add-eagleget-to-browsers-based-on-chrome-or-firefox/ads-sync.js (from www.eagleget.com/help/how-can-i-add-eagleget-to-browsers-based-on-chrome-or-firefox/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=306
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=306 to http://www.eagleget.com/help/eagleget-integration-into-chrome-ie-or-firefox-does-not-work-or-behaviors-strangely/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/eagleget-integration-into-chrome-ie-or-firefox-does-not-work-or-behaviors-strangely/ads-sync.js (from www.eagleget.com/help/eagleget-integration-into-chrome-ie-or-firefox-does-not-work-or-behaviors-strangely/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=322
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=322 to http://www.eagleget.com/help/temporary-disable-eagleget-to-download-some-file/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/help/temporary-disable-eagleget-to-download-some-file/ads-sync.js (from www.eagleget.com/help/temporary-disable-eagleget-to-download-some-file/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1376
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1376 to http://www.eagleget.com/worldwide/download-lagu-mp3-gratis-dengan-eagleget/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/worldwide/download-lagu-mp3-gratis-dengan-eagleget/ads-sync.js (from www.eagleget.com/worldwide/download-lagu-mp3-gratis-dengan-eagleget/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1733
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1733 to http://www.eagleget.com/vn/cach-download-nhac-tu-mp3-zing-vn-khong-mat-phi/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/vn/cach-download-nhac-tu-mp3-zing-vn-khong-mat-phi/ads-sync.js (from www.eagleget.com/vn/cach-download-nhac-tu-mp3-zing-vn-khong-mat-phi/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1745
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1745 to http://www.eagleget.com/vn/download-nhac-hinh-mien-phi/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/vn/download-nhac-hinh-mien-phi/ads-sync.js (from www.eagleget.com/vn/download-nhac-hinh-mien-phi/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1783
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1783 to http://www.eagleget.com/vn/cach-tai-zingplay-ve-may-tinh-mien-phi/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/vn/cach-tai-zingplay-ve-may-tinh-mien-phi/ads-sync.js (from www.eagleget.com/vn/cach-tai-zingplay-ve-may-tinh-mien-phi/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1788
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1788 to http://www.eagleget.com/vn/cach-tai-nhac-mp3-mp4-ve-may-tinh-mien-phi/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/vn/cach-tai-nhac-mp3-mp4-ve-may-tinh-mien-phi/ads-sync.js (from www.eagleget.com/vn/cach-tai-nhac-mp3-mp4-ve-may-tinh-mien-phi/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1817
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1817 to http://www.eagleget.com/vn/download-nhanh-tren-4shared-cho-mien-phi/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/vn/download-nhanh-tren-4shared-cho-mien-phi/ads-sync.js (from www.eagleget.com/vn/download-nhanh-tren-4shared-cho-mien-phi/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=1822
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=1822 to http://www.eagleget.com/vn/download-nhac-hinh-mp3-cho-mien-phi/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/vn/download-nhac-hinh-mp3-cho-mien-phi/ads-sync.js (from www.eagleget.com/vn/download-nhac-hinh-mp3-cho-mien-phi/)
+01:34:03	Warning: 	Moved Permanently for www.eagleget.com/?p=19
+01:34:03	Warning: 	File has moved from www.eagleget.com/?p=19 to http://www.eagleget.com/features/
+01:34:03	Error: 	"Not Found" (404) at link www.eagleget.com/features/ads-sync.js (from www.eagleget.com/features/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2944
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2944 to http://www.eagleget.com/eagleget-user-experience-program-euep/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/eagleget-user-experience-program-euep/ads-sync.js (from www.eagleget.com/eagleget-user-experience-program-euep/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2366
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2366 to http://www.eagleget.com/download-facebook-for-free/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/download-facebook-for-free/ads-sync.js (from www.eagleget.com/download-facebook-for-free/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2763
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2763 to http://www.eagleget.com/free-chrome-dailymotion-downloader/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-chrome-dailymotion-downloader/ads-sync.js (from www.eagleget.com/free-chrome-dailymotion-downloader/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=470
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=470 to http://www.eagleget.com/free-download-msn-videos-and-download-bing-videos/
+01:35:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.eagleget.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.eagleget.com%2Ffree-download-msn-videos-and-download-bing-videos%2F&format=xml (from www.eagleget.com/free-download-msn-videos-and-download-bing-videos/)
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-download-msn-videos-and-download-bing-videos/ads-sync.js (from www.eagleget.com/free-download-msn-videos-and-download-bing-videos/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2479
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2479 to http://www.eagleget.com/free-download-jeuxvideo-in-chrome-firefox-opera-and-ie/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-download-jeuxvideo-in-chrome-firefox-opera-and-ie/ads-sync.js (from www.eagleget.com/free-download-jeuxvideo-in-chrome-firefox-opera-and-ie/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2635
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2635 to http://www.eagleget.com/free-download-myvideo-de-videos-in-chrome-firefox-opera-and-ie/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-download-myvideo-de-videos-in-chrome-firefox-opera-and-ie/ads-sync.js (from www.eagleget.com/free-download-myvideo-de-videos-in-chrome-firefox-opera-and-ie/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2711
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2711 to http://www.eagleget.com/free-chrome-downloader-eg-download-accelerator/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-chrome-downloader-eg-download-accelerator/ads-sync.js (from www.eagleget.com/free-chrome-downloader-eg-download-accelerator/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2771
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2771 to http://www.eagleget.com/free-chrome-video-downloader/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-chrome-video-downloader/ads-sync.js (from www.eagleget.com/free-chrome-video-downloader/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2946
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2946 to http://www.eagleget.com/free-chrome-downloader-all-in-one-download-manager/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-chrome-downloader-all-in-one-download-manager/ads-sync.js (from www.eagleget.com/free-chrome-downloader-all-in-one-download-manager/)
+01:35:01	Warning: 	Moved Permanently for www.eagleget.com/?p=2971
+01:35:01	Warning: 	File has moved from www.eagleget.com/?p=2971 to http://www.eagleget.com/free-chrome-downloader-helps-you-accelerate-downloads/
+01:35:01	Error: 	"Not Found" (404) at link www.eagleget.com/free-chrome-downloader-helps-you-accelerate-downloads/ads-sync.js (from www.eagleget.com/free-chrome-downloader-helps-you-accelerate-downloads/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 59 seconds : 447 links scanned, 337 files written (5906285 bytes overall) [4213227 bytes received at 11736 bytes/sec], 3064542 bytes transferred using HTTP compression in 255 files, ratio 35%, 26.1 requests per connection
+(49 errors, 120 warnings, 0 messages)
